@@ -12,6 +12,6 @@
     }
   },
   "dependencies": {
-    "puzzle-loader": ">=1.0.1"
+    "puzzle-loader": ">=1.0.3"
   }
 }

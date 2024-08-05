@@ -43,7 +43,7 @@ processResources {
 
     // Left item is the name in the target, right is the varuable name
     def replaceProperties = [
-            "mod_version"     : version,
+            "mod_version"     : modversion,
             "mod_desc"       : desc,
             "mod_name"        : modname,
             "mod_id"          : id,
